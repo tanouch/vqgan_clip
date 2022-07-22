@@ -1,0 +1,2 @@
+python vqgan_clip.py --prompts "Computer vision is a field of artificial intelligence enableing computers to see,trending on artstation" 
+#python vqgan_clip.py --prompts "understanding the complexity of computer vision,trending on artstation"
